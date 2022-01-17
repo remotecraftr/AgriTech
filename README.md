@@ -369,3 +369,4 @@ A: Ensure the backend server is running correctly and that the /health route is 
 
 **Made with ❤️ by the AgriTech Community — SWoC 2026**
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
